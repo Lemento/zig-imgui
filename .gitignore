@@ -1,3 +1,6 @@
+## Zig generated
+zig-cache
+zig-out
 ## OSX artifacts
 .DS_Store
 
